@@ -1,0 +1,30 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)
+// swift-module-flags: -target arm64-apple-ios14.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name MobilePaymentSDK
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import Foundation
+import Swift
+import _Concurrency
+import _StringProcessing
+extension Swift.String {
+  public static func randomString(length: Swift.Int) -> Swift.String
+  public var wordCount: Swift.Int {
+    get
+  }
+  public func localize() -> Swift.String
+  public func lowercasedLocalized() -> Swift.String
+  public func uppercasedLocalized() -> Swift.String
+  public func toBase64() -> Swift.String?
+  public func enconde() -> Swift.String
+  public func toDate(format: Swift.String) -> Foundation.Date
+  public func replacingOccurrences(of search: Swift.String, with replacement: Swift.String, count maxReplacements: Swift.Int) -> Swift.String
+  public func withPrefix(_ prefix: Swift.String) -> Swift.String
+}
+public struct MobilePaymentSDK {
+  public var text: Swift.String {
+    get
+  }
+  public init()
+  public func checkOk()
+  public func getText() -> Swift.String
+}

@@ -22,9 +22,9 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .target(
             name: "FrameworkSPM",
-            dependencies: ["PackagePrueba"]),
+            dependencies: ["PackagePrueba2"]),
         .binaryTarget(
-            name: "PackagePrueba",
+            name: "PackagePrueba2",
             path: "Sources/artifacts/PackagePrueba.xcframework"
         ),
 /*  resources: [

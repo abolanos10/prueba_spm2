@@ -1,0 +1,120 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "TypeDecl",
+        "name": "PackagePrueba",
+        "printedName": "PackagePrueba",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "text",
+            "printedName": "text",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:13PackagePruebaAAV4textSSvp",
+            "mangledName": "$s13PackagePruebaAAV4textSSvp",
+            "moduleName": "PackagePrueba",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "SetterAccess",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13PackagePruebaAAV4textSSvg",
+                "mangledName": "$s13PackagePruebaAAV4textSSvg",
+                "moduleName": "PackagePrueba",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "PackagePrueba",
+                "printedName": "PackagePrueba.PackagePrueba",
+                "usr": "s:13PackagePruebaAAV"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:13PackagePruebaAAVABycfc",
+            "mangledName": "$s13PackagePruebaAAVABycfc",
+            "moduleName": "PackagePrueba",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "checkOk",
+            "printedName": "checkOk()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:13PackagePruebaAAV7checkOkSSyF",
+            "mangledName": "$s13PackagePruebaAAV7checkOkSSyF",
+            "moduleName": "PackagePrueba",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:13PackagePruebaAAV",
+        "mangledName": "$s13PackagePruebaAAV",
+        "moduleName": "PackagePrueba",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/adrianbolanos\/Documents\/OtrosProyectos\/PackagePrueba\/Sources\/PackagePrueba\/PackagePrueba.swift",
+      "kind": "StringLiteral",
+      "offset": 65,
+      "length": 15,
+      "value": "\"Hello, World!\""
+    }
+  ]
+}

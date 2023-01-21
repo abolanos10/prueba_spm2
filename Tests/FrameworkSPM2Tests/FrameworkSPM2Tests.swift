@@ -1,11 +1,11 @@
 import XCTest
-@testable import FrameworkSPM
+@testable import FrameworkSPM2
 
-final class FrameworkSPMTests: XCTestCase {
+final class FrameworkSPM2Tests: XCTestCase {
     func testExample() throws {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertEqual(FrameworkSPM().text, "Hello, World!")
+        XCTAssertEqual(FrameworkSPM2().text, "Hello, World!")
     }
 }

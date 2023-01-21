@@ -4,13 +4,13 @@
 import PackageDescription
 
 let package = Package(
-    name: "FrameworkSPM",
+    name: "FrameworkSPM2",
     products: [
         // Products define the executables and libraries a package produces, and make them visible to other packages.
         .library(
-            name: "FrameworkSPM",
+            name: "FrameworkSPM2",
            // type: .dynamic,
-            targets: ["FrameworkSPM"]),
+            targets: ["FrameworkSPM2"]),
         //.library(name: "MobilePaymentSDK", targets: ["MobilePaymentSDK"])
     ],
     dependencies: [
@@ -21,7 +21,7 @@ let package = Package(
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .target(
-            name: "FrameworkSPM",
+            name: "FrameworkSPM2",
             dependencies: ["PackagePrueba"]),
         .binaryTarget(
             name: "PackagePrueba",
@@ -32,7 +32,7 @@ let package = Package(
         .binaryTarget(name: "MobilePaymentSDK",
                               path: "artifacts/MobilePaymentSDK.xcframework"), */
         .testTarget(
-            name: "FrameworkSPMTests",
-            dependencies: ["FrameworkSPM"]),
+            name: "FrameworkSPM2Tests",
+            dependencies: ["FrameworkSPM2"]),
     ]
 )

@@ -10,7 +10,7 @@ let package = Package(
         .library(
             name: "FrameworkSPM2",
            // type: .dynamic,
-            targets: ["FrameworkSPM2"]),
+            targets: ["FrameworkSPM2", "PackagePrueba"]),
         //.library(name: "MobilePaymentSDK", targets: ["MobilePaymentSDK"])
     ],
     dependencies: [

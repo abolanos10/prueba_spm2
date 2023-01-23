@@ -27,6 +27,10 @@ let package = Package(
             name: "MobilePaymentSDK",
             path: "Sources/artifacts/MobilePaymentSDK.xcframework"
         ),
+        .binaryTarget(
+            name: "Kingfisher",
+            path: "Sources/artifacts/Kingfisher.xcframework"
+        ),
 /*  resources: [
         ]),
         .binaryTarget(name: "MobilePaymentSDK",

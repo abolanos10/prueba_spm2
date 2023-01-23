@@ -2471,21 +2471,21 @@
     {
       "filePath": "\/Users\/adrianbolanos\/Documents\/Git\/Azkoyen\/Mobile.iOS\/src\/Sdk\/MobilePaymentSDK\/Sources\/MobilePaymentSDK\/Extensions\/Bundle+Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 1230,
+      "offset": 1341,
       "length": 9,
       "value": "\".bundle\""
     },
     {
       "filePath": "\/Users\/adrianbolanos\/Documents\/Git\/Azkoyen\/Mobile.iOS\/src\/Sdk\/MobilePaymentSDK\/Sources\/MobilePaymentSDK\/Extensions\/Bundle+Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 1440,
+      "offset": 1551,
       "length": 9,
       "value": "\".bundle\""
     },
     {
       "filePath": "\/Users\/adrianbolanos\/Documents\/Git\/Azkoyen\/Mobile.iOS\/src\/Sdk\/MobilePaymentSDK\/Sources\/MobilePaymentSDK\/Extensions\/Bundle+Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 1592,
+      "offset": 1703,
       "length": 63,
       "value": "\"unable to find bundle named MobilePaymentSDK_MobilePaymentSDK\""
     },

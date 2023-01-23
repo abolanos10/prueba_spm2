@@ -1,0 +1,11 @@
+framework module AzkoyenPaySDK {
+  umbrella header "AzkoyenPaySDK.h"
+
+  export *
+  module * { export * }
+}
+
+module AzkoyenPaySDK.Swift {
+  header "AzkoyenPaySDK-Swift.h"
+  requires objc
+}

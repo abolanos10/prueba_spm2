@@ -1,0 +1,151 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AzkoyenPaySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "AzkoyenSDK",
+        "printedName": "AzkoyenSDK",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AzkoyenSDK",
+                "printedName": "AzkoyenPaySDK.AzkoyenSDK",
+                "usr": "s:13AzkoyenPaySDK0aC0C"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:13AzkoyenPaySDK0aC0CACycfc",
+            "mangledName": "$s13AzkoyenPaySDK0aC0CACycfc",
+            "moduleName": "AzkoyenPaySDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "getText",
+            "printedName": "getText()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:13AzkoyenPaySDK0aC0C7getTextSSyF",
+            "mangledName": "$s13AzkoyenPaySDK0aC0C7getTextSSyF",
+            "moduleName": "AzkoyenPaySDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:13AzkoyenPaySDK0aC0C",
+        "mangledName": "$s13AzkoyenPaySDK0aC0C",
+        "moduleName": "AzkoyenPaySDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AzkoyenPaySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AzkoyenPaySDK"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "AzkoyenPaySDK"
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/adrianbolanos\/Documents\/Git\/Azkoyen\/Mobile.iOS\/src\/Sdk\/AzkoyenPaySDK\/AzkoyenPaySDK\/Assets\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 600,
+      "length": 13,
+      "value": "\"Localizable\""
+    },
+    {
+      "filePath": "\/Users\/adrianbolanos\/Documents\/Git\/Azkoyen\/Mobile.iOS\/src\/Sdk\/AzkoyenPaySDK\/AzkoyenPaySDK\/Assets\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 615,
+      "length": 11,
+      "value": "\"pruebasdk\""
+    },
+    {
+      "filePath": "\/Users\/adrianbolanos\/Documents\/Git\/Azkoyen\/Mobile.iOS\/src\/Sdk\/AzkoyenPaySDK\/AzkoyenPaySDK\/Assets\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 638,
+      "length": 36,
+      "value": "\"Esto es desde localizable Español\""
+    },
+    {
+      "filePath": "\/Users\/adrianbolanos\/Documents\/Git\/Azkoyen\/Mobile.iOS\/src\/Sdk\/AzkoyenPaySDK\/AzkoyenPaySDK\/Assets\/Generated\/Assets.swift",
+      "kind": "StringLiteral",
+      "offset": 928,
+      "length": 22,
+      "value": "\"MicrosoftTeams-image\""
+    },
+    {
+      "filePath": "\/Users\/adrianbolanos\/Documents\/Git\/Azkoyen\/Mobile.iOS\/src\/Sdk\/AzkoyenPaySDK\/AzkoyenPaySDK\/Assets\/Generated\/Assets.swift",
+      "kind": "StringLiteral",
+      "offset": 1030,
+      "length": 7,
+      "value": "\"Color\""
+    },
+    {
+      "filePath": "\/Users\/adrianbolanos\/Documents\/Git\/Azkoyen\/Mobile.iOS\/src\/Sdk\/AzkoyenPaySDK\/AzkoyenPaySDK\/Assets\/Generated\/Assets.swift",
+      "kind": "StringLiteral",
+      "offset": 1567,
+      "length": 43,
+      "value": "\"Unable to load color asset named \""
+    },
+    {
+      "filePath": "\/Users\/adrianbolanos\/Documents\/Git\/Azkoyen\/Mobile.iOS\/src\/Sdk\/AzkoyenPaySDK\/AzkoyenPaySDK\/Assets\/Generated\/Assets.swift",
+      "kind": "StringLiteral",
+      "offset": 1608,
+      "length": 1,
+      "value": "\".\""
+    }
+  ]
+}

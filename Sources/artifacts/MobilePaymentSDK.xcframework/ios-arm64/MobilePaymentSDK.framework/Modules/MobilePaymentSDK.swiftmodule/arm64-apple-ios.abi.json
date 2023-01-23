@@ -19,6 +19,13 @@
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
+        "moduleName": "MobilePaymentSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
         "moduleName": "MobilePaymentSDK",
         "declAttributes": [
           "RawDocComment"
@@ -1304,6 +1311,184 @@
       },
       {
         "kind": "TypeDecl",
+        "name": "Bundle",
+        "printedName": "Bundle",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "moduleSDK",
+            "printedName": "moduleSDK",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bundle",
+                "printedName": "Foundation.Bundle",
+                "usr": "c:objc(cs)NSBundle"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:So8NSBundleC16MobilePaymentSDKE06moduleD0ABvpZ",
+            "mangledName": "$sSo8NSBundleC16MobilePaymentSDKE06moduleD0ABvpZ",
+            "moduleName": "MobilePaymentSDK",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bundle",
+                    "printedName": "Foundation.Bundle",
+                    "usr": "c:objc(cs)NSBundle"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:So8NSBundleC16MobilePaymentSDKE06moduleD0ABvgZ",
+                "mangledName": "$sSo8NSBundleC16MobilePaymentSDKE06moduleD0ABvgZ",
+                "moduleName": "MobilePaymentSDK",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "isFromExtension": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bundle",
+                    "printedName": "Foundation.Bundle",
+                    "usr": "c:objc(cs)NSBundle"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:So8NSBundleC16MobilePaymentSDKE06moduleD0ABvsZ",
+                "mangledName": "$sSo8NSBundleC16MobilePaymentSDKE06moduleD0ABvsZ",
+                "moduleName": "MobilePaymentSDK",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "isFromExtension": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:So8NSBundleC16MobilePaymentSDKE06moduleD0ABvMZ",
+                "mangledName": "$sSo8NSBundleC16MobilePaymentSDKE06moduleD0ABvMZ",
+                "moduleName": "MobilePaymentSDK",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "isFromExtension": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:objc(cs)NSBundle",
+        "moduleName": "Foundation",
+        "isOpen": true,
+        "objc_name": "NSBundle",
+        "declAttributes": [
+          "ObjC",
+          "NonSendable",
+          "Dynamic"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "isExternal": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
         "name": "String",
         "printedName": "String",
         "children": [
@@ -2269,6 +2454,27 @@
     "json_format_version": 8
   },
   "ConstValues": [
+    {
+      "filePath": "\/Users\/adrianbolanos\/Documents\/Git\/Azkoyen\/Mobile.iOS\/src\/Sdk\/MobilePaymentSDK\/Sources\/MobilePaymentSDK\/Extensions\/Bundle+Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 233,
+      "length": 35,
+      "value": "\"MobilePaymentSDK_MobilePaymentSDK\""
+    },
+    {
+      "filePath": "\/Users\/adrianbolanos\/Documents\/Git\/Azkoyen\/Mobile.iOS\/src\/Sdk\/MobilePaymentSDK\/Sources\/MobilePaymentSDK\/Extensions\/Bundle+Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 766,
+      "length": 9,
+      "value": "\".bundle\""
+    },
+    {
+      "filePath": "\/Users\/adrianbolanos\/Documents\/Git\/Azkoyen\/Mobile.iOS\/src\/Sdk\/MobilePaymentSDK\/Sources\/MobilePaymentSDK\/Extensions\/Bundle+Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 918,
+      "length": 61,
+      "value": "\"unable to find bundle named YourPackageName_YourPackageName\""
+    },
     {
       "filePath": "\/Users\/adrianbolanos\/Documents\/Git\/Azkoyen\/Mobile.iOS\/src\/Sdk\/MobilePaymentSDK\/Sources\/MobilePaymentSDK\/Extensions\/UserDefaults+Extensions.swift",
       "kind": "StringLiteral",

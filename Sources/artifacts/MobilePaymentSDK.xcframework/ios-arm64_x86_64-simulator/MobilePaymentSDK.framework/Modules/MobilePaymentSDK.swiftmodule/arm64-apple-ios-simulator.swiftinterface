@@ -3,6 +3,7 @@
 // swift-module-flags: -target arm64-apple-ios14.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name MobilePaymentSDK
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 import Foundation
+import Foundation/*.Bundle*/
 import Swift
 import _Concurrency
 import _StringProcessing

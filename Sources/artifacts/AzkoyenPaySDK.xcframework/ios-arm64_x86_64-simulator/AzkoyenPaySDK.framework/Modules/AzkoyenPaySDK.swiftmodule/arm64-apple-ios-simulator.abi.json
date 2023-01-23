@@ -109,7 +109,10 @@
         "name": "Kingfisher",
         "printedName": "Kingfisher",
         "declKind": "Import",
-        "moduleName": "AzkoyenPaySDK"
+        "moduleName": "AzkoyenPaySDK",
+        "declAttributes": [
+          "Exported"
+        ]
       },
       {
         "kind": "TypeDecl",

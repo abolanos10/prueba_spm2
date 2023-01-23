@@ -4,7 +4,7 @@
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 @_exported import AzkoyenPaySDK
 import Foundation
-import Kingfisher
+@_exported import Kingfisher
 import Swift
 import SwiftUI
 import UIKit

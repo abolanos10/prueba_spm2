@@ -4,6 +4,7 @@
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 @_exported import AzkoyenPaySDK
 import Foundation
+import Kingfisher
 import Swift
 import SwiftUI
 import UIKit
@@ -13,4 +14,10 @@ public class AzkoyenSDK {
   public init()
   public func getText() -> Swift.String
   @objc deinit
+}
+public struct ExampleView : SwiftUI.View {
+  @_Concurrency.MainActor(unsafe) public var body: some SwiftUI.View {
+    get
+  }
+  public typealias Body = @_opaqueReturnTypeOf("$s13AzkoyenPaySDK11ExampleViewV4bodyQrvp", 0) __
 }

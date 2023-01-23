@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		vCfVOtLV8Hs/EtzNX4ZLDreXeO8=
+		auWqKBoq2SK80y576NWoAt65bhU=
 		</data>
 		<key>Headers/AzkoyenPaySDK-Swift.h</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/AzkoyenPaySDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		PzLJTXX47AhitzhRTTAEQO25zN4=
+		wmdpj1aoXBTFJPKcW8UelEO7iIw=
 		</data>
 		<key>Modules/AzkoyenPaySDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		aSezs179F0t+CDXs9ow3XVtecBc=
+		zzBhCe/5jdNmDWs9ZgXYWpkUKz0=
 		</data>
 		<key>Modules/AzkoyenPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -34,19 +34,19 @@
 		</data>
 		<key>Modules/AzkoyenPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		aSezs179F0t+CDXs9ow3XVtecBc=
+		zzBhCe/5jdNmDWs9ZgXYWpkUKz0=
 		</data>
 		<key>Modules/AzkoyenPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		U6r0EKnP1fXhY93nQSe0HuelFAw=
+		GBsaoDa+gFLpyMahB+r9cHdwlSE=
 		</data>
 		<key>Modules/AzkoyenPaySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		PzLJTXX47AhitzhRTTAEQO25zN4=
+		wmdpj1aoXBTFJPKcW8UelEO7iIw=
 		</data>
 		<key>Modules/AzkoyenPaySDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		aKsEP9BDe0au/piQAOSBxhc8k3o=
+		BmrLjlCly61Emr/WAafaajB/1pw=
 		</data>
 		<key>Modules/AzkoyenPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>Modules/AzkoyenPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		aKsEP9BDe0au/piQAOSBxhc8k3o=
+		BmrLjlCly61Emr/WAafaajB/1pw=
 		</data>
 		<key>Modules/AzkoyenPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Xm7/YKMDtfdvS6RIG8KKoQX2SaY=
+		EEQlhpExLpKyLZwzj9fSnFwa8eM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -93,7 +93,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ciU/KAtZ1cNW/azHiy+sRbaKO03IcJhWA3McCSslDfA=
+			qlrlWVUR0V1lsnGUP/GYHTjFv1OqAnPjQztCstMyVmc=
 			</data>
 		</dict>
 		<key>Headers/AzkoyenPaySDK-Swift.h</key>
@@ -114,14 +114,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mtKPlOeX4ol9Ox4+thQtRyiGbjbJ7X/yAw658J/bOn4=
+			2zq9Llpx0y5sFetZp7eScu8glZRYJFm3L3Yo65auSXI=
 			</data>
 		</dict>
 		<key>Modules/AzkoyenPaySDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PGG49pu0XZo7qPhJYKqfBTCWmfMWaYOvYFmCHSnXU0c=
+			uPicEf6vaBDgeEWNhE4HEYpTEFRQyaAWf0fjFPIpIMY=
 			</data>
 		</dict>
 		<key>Modules/AzkoyenPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -135,28 +135,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PGG49pu0XZo7qPhJYKqfBTCWmfMWaYOvYFmCHSnXU0c=
+			uPicEf6vaBDgeEWNhE4HEYpTEFRQyaAWf0fjFPIpIMY=
 			</data>
 		</dict>
 		<key>Modules/AzkoyenPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JRFUs0dWt0JT8YzCMO8LqkhLQsX2IqzfZrKwcMPTaUU=
+			zlieock/ZMkCSg/8gnJsbB6Aw4AAzhhzEu8qAtqMzb0=
 			</data>
 		</dict>
 		<key>Modules/AzkoyenPaySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mtKPlOeX4ol9Ox4+thQtRyiGbjbJ7X/yAw658J/bOn4=
+			2zq9Llpx0y5sFetZp7eScu8glZRYJFm3L3Yo65auSXI=
 			</data>
 		</dict>
 		<key>Modules/AzkoyenPaySDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pGGgmo6Grb6DcVQK4KpMX3tJ1tRV3RmL50fiI3LZPy8=
+			jSOCA772eky/9mmjPBptSi4nqN3xlAKkZLCOG3vYfCo=
 			</data>
 		</dict>
 		<key>Modules/AzkoyenPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -170,14 +170,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pGGgmo6Grb6DcVQK4KpMX3tJ1tRV3RmL50fiI3LZPy8=
+			jSOCA772eky/9mmjPBptSi4nqN3xlAKkZLCOG3vYfCo=
 			</data>
 		</dict>
 		<key>Modules/AzkoyenPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TDEgUX00sow+uL6oBhOKiGi4x3mL1kQgxzxsA6ve7Vs=
+			rGA6nStR/WOAPbDbFfjhFwkWwaHXFxeURfg5rK2fvZY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

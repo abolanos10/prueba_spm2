@@ -1316,8 +1316,8 @@
         "children": [
           {
             "kind": "Var",
-            "name": "module",
-            "printedName": "module",
+            "name": "myModule",
+            "printedName": "myModule",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -1327,8 +1327,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:So8NSBundleC16MobilePaymentSDKE6moduleABvpZ",
-            "mangledName": "$sSo8NSBundleC16MobilePaymentSDKE6moduleABvpZ",
+            "usr": "s:So8NSBundleC16MobilePaymentSDKE8myModuleABvpZ",
+            "mangledName": "$sSo8NSBundleC16MobilePaymentSDKE8myModuleABvpZ",
             "moduleName": "MobilePaymentSDK",
             "static": true,
             "declAttributes": [
@@ -1353,8 +1353,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:So8NSBundleC16MobilePaymentSDKE6moduleABvgZ",
-                "mangledName": "$sSo8NSBundleC16MobilePaymentSDKE6moduleABvgZ",
+                "usr": "s:So8NSBundleC16MobilePaymentSDKE8myModuleABvgZ",
+                "mangledName": "$sSo8NSBundleC16MobilePaymentSDKE8myModuleABvgZ",
                 "moduleName": "MobilePaymentSDK",
                 "static": true,
                 "implicit": true,
@@ -1382,8 +1382,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:So8NSBundleC16MobilePaymentSDKE6moduleABvsZ",
-                "mangledName": "$sSo8NSBundleC16MobilePaymentSDKE6moduleABvsZ",
+                "usr": "s:So8NSBundleC16MobilePaymentSDKE8myModuleABvsZ",
+                "mangledName": "$sSo8NSBundleC16MobilePaymentSDKE8myModuleABvsZ",
                 "moduleName": "MobilePaymentSDK",
                 "static": true,
                 "implicit": true,
@@ -1405,8 +1405,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:So8NSBundleC16MobilePaymentSDKE6moduleABvMZ",
-                "mangledName": "$sSo8NSBundleC16MobilePaymentSDKE6moduleABvMZ",
+                "usr": "s:So8NSBundleC16MobilePaymentSDKE8myModuleABvMZ",
+                "mangledName": "$sSo8NSBundleC16MobilePaymentSDKE8myModuleABvMZ",
                 "moduleName": "MobilePaymentSDK",
                 "static": true,
                 "implicit": true,
@@ -2457,21 +2457,35 @@
     {
       "filePath": "\/Users\/adrianbolanos\/Documents\/Git\/Azkoyen\/Mobile.iOS\/src\/Sdk\/MobilePaymentSDK\/Sources\/MobilePaymentSDK\/Extensions\/Bundle+Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 230,
+      "offset": 232,
       "length": 35,
       "value": "\"MobilePaymentSDK_MobilePaymentSDK\""
     },
     {
       "filePath": "\/Users\/adrianbolanos\/Documents\/Git\/Azkoyen\/Mobile.iOS\/src\/Sdk\/MobilePaymentSDK\/Sources\/MobilePaymentSDK\/Extensions\/Bundle+Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 763,
+      "offset": 298,
+      "length": 32,
+      "value": "\"LocalPackages_MobilePaymentSDK\""
+    },
+    {
+      "filePath": "\/Users\/adrianbolanos\/Documents\/Git\/Azkoyen\/Mobile.iOS\/src\/Sdk\/MobilePaymentSDK\/Sources\/MobilePaymentSDK\/Extensions\/Bundle+Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 1230,
       "length": 9,
       "value": "\".bundle\""
     },
     {
       "filePath": "\/Users\/adrianbolanos\/Documents\/Git\/Azkoyen\/Mobile.iOS\/src\/Sdk\/MobilePaymentSDK\/Sources\/MobilePaymentSDK\/Extensions\/Bundle+Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 915,
+      "offset": 1440,
+      "length": 9,
+      "value": "\".bundle\""
+    },
+    {
+      "filePath": "\/Users\/adrianbolanos\/Documents\/Git\/Azkoyen\/Mobile.iOS\/src\/Sdk\/MobilePaymentSDK\/Sources\/MobilePaymentSDK\/Extensions\/Bundle+Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 1592,
       "length": 63,
       "value": "\"unable to find bundle named MobilePaymentSDK_MobilePaymentSDK\""
     },

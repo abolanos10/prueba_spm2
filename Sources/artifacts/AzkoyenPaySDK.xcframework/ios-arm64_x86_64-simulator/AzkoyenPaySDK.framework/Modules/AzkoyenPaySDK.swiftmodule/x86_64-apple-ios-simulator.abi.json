@@ -120,6 +120,27 @@
         "printedName": "ExampleView",
         "children": [
           {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ExampleView",
+                "printedName": "AzkoyenPaySDK.ExampleView",
+                "usr": "s:13AzkoyenPaySDK11ExampleViewV"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:13AzkoyenPaySDK11ExampleViewVACycfc",
+            "mangledName": "$s13AzkoyenPaySDK11ExampleViewVACycfc",
+            "moduleName": "AzkoyenPaySDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
             "kind": "Var",
             "name": "body",
             "printedName": "body",

@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/AzkoyenPaySDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		8ororGeWbdYmZtymmJ97Lc1/Cvg=
+		7ooGvArUnzKsq4Wwx7k5+J5Puhc=
 		</data>
 		<key>Modules/AzkoyenPaySDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		eCjrq/JnAv7zMp2kwd+FRbqu/KA=
+		8fNh9YbJTuetChS4dQq9cLwLcyA=
 		</data>
 		<key>Modules/AzkoyenPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -34,19 +34,19 @@
 		</data>
 		<key>Modules/AzkoyenPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		eCjrq/JnAv7zMp2kwd+FRbqu/KA=
+		8fNh9YbJTuetChS4dQq9cLwLcyA=
 		</data>
 		<key>Modules/AzkoyenPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		G6P3KmXBI5eBS0gtdyZmdpDLpNM=
+		IQ6FdqLZSH7AVJvtaXq/Z4d4Lak=
 		</data>
 		<key>Modules/AzkoyenPaySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		8ororGeWbdYmZtymmJ97Lc1/Cvg=
+		7ooGvArUnzKsq4Wwx7k5+J5Puhc=
 		</data>
 		<key>Modules/AzkoyenPaySDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		4M/H/QaKuDSclI5QKBlmBDxBNNk=
+		YXDIxA22wvBdI5hZNLtWvfy7ImI=
 		</data>
 		<key>Modules/AzkoyenPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>Modules/AzkoyenPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		4M/H/QaKuDSclI5QKBlmBDxBNNk=
+		YXDIxA22wvBdI5hZNLtWvfy7ImI=
 		</data>
 		<key>Modules/AzkoyenPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		RtNIBQFtaoo6ZZyfVQyCEYOT4G0=
+		u+EuM4cIqD0tjK5g5RUA5lB4GZs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -114,14 +114,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ChuMHMvI7o0EQnsPIbstEJbZShr/eVIQ8p8ePwHfrBM=
+			a0xkdT3PrXcd47DQt2ZIsu8fGTeUlBtHGfspgc5sMZo=
 			</data>
 		</dict>
 		<key>Modules/AzkoyenPaySDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yzhbX59S03E1MIAYggmclo6ROIqTQ6wP6Xug4wCPc2s=
+			R2lwUlV2VNUxmG2gWYFhPfEhbMmNCu5nYChdo0DiMPc=
 			</data>
 		</dict>
 		<key>Modules/AzkoyenPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -135,28 +135,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yzhbX59S03E1MIAYggmclo6ROIqTQ6wP6Xug4wCPc2s=
+			R2lwUlV2VNUxmG2gWYFhPfEhbMmNCu5nYChdo0DiMPc=
 			</data>
 		</dict>
 		<key>Modules/AzkoyenPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5MCLgKRV1vfO8wP3kfYWqEXvjjZFx7KVlGB/ESmG8t4=
+			am0RHAEP3lbFkyFP8UehjBfFyxxVifFs6JkvXMhOz4s=
 			</data>
 		</dict>
 		<key>Modules/AzkoyenPaySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ChuMHMvI7o0EQnsPIbstEJbZShr/eVIQ8p8ePwHfrBM=
+			a0xkdT3PrXcd47DQt2ZIsu8fGTeUlBtHGfspgc5sMZo=
 			</data>
 		</dict>
 		<key>Modules/AzkoyenPaySDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mqlw1mATNFoq/KCewTXtBqOzPHLIWXG33Ajx/peka0w=
+			6Uk7ocDwuPCm8Yxv9G26wFBoCPKFgDFKFMS6ESxSrMQ=
 			</data>
 		</dict>
 		<key>Modules/AzkoyenPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -170,14 +170,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mqlw1mATNFoq/KCewTXtBqOzPHLIWXG33Ajx/peka0w=
+			6Uk7ocDwuPCm8Yxv9G26wFBoCPKFgDFKFMS6ESxSrMQ=
 			</data>
 		</dict>
 		<key>Modules/AzkoyenPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			psiOo+oSBU2+6RnaeVkptrywG4CE5ibX9oP0bUG32Zg=
+			QSMlPzpQPYo5kT7JW+NaymeDWP2HuE7/XNEJwu8Z+FE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

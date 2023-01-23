@@ -16,6 +16,7 @@ public class AzkoyenSDK {
   @objc deinit
 }
 public struct ExampleView : SwiftUI.View {
+  public init()
   @_Concurrency.MainActor(unsafe) public var body: some SwiftUI.View {
     get
   }
